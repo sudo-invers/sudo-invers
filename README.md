@@ -7,14 +7,14 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 👋 Hi there
-Sou José Dhonatan — apaixonado por tecnologia, desenvolvimento de software e pela busca constante por evolução.  
-Gosto de explorar novas ferramentas, aprender conceitos avançados e aplicar boas práticas para criar soluções eficientes, organizadas e escaláveis.
+## 👋 Hi
+Me chamo José Dhonatan — Sou apaixonado por tecnologia, desenvolvimento de software e pela busca constante de aprendizado.  
+Gosto de explorar novas ferramentas, aprender novos conceitos e de me atualizar com as melhores praticas para projetar meus projetos 
 
-🚀 **Atualmente estudando:** Python e SQLAlchemy  
+🚀 **Atualmente estudando:** C++ e Python
 💡 **Interesses:** Java, Spring Boot, APIs REST, bancos de dados, arquitetura limpa e automação.
 
-Sinta-se à vontade para explorar meus projetos!
+Sinta-se à vontade para explorar meus projetos ou me contatar para conversar comigo!
 
 
 <!--
