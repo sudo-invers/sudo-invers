@@ -11,7 +11,7 @@
 Me chamo José Dhonatan — Sou apaixonado por tecnologia, desenvolvimento de software e pela busca constante de aprendizado.  
 Gosto de explorar novas ferramentas, aprender novos conceitos e de me atualizar com as melhores praticas para projetar meus projetos 
 
-🚀 **Atualmente estudando:** C++ e Python
+🚀 **Atualmente estudando:** JavaEE e Kubernetes
 💡 **Interesses:** Java, Spring Boot, APIs REST, bancos de dados, arquitetura limpa e automação.
 
 Sinta-se à vontade para explorar meus projetos ou me contatar para conversar comigo!
