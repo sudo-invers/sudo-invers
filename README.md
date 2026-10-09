@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D70A53,50:ED8B00,100:6DB33F&height=220&section=header&text=José%20Dhonatan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=software%20software engineer engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D70A53,50:ED8B00,100:6DB33F&height=220&section=header&text=José%20Dhonatan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=software%20engineer&descAlignY=58&descSize=18" width="100%" alt="header"/>
 
 <div align="center">
 <a href="https://github.com/sudo-invers">
@@ -21,14 +21,9 @@ public class JoseDhonatan {
 
     private final String nome = "José Dhonatan";
     private final String github = "sudo-invers";
-    private final String[] estudandoAgora = {"JavaEE", "Kubernetes"};
-    private final String[] interesses = {
-        "Java", "Spring Boot", "APIs REST",
-        "Bancos de dados", "Arquitetura limpa", "Automação"
-    };
 
     public String frase() {
-        return "Nunca mais fazer git push origin main --force novamente";
+        return "Nunca mais fazer 'git push origin main --force' novamente";
     }
 }
 ```
@@ -67,8 +62,6 @@ apaixonado por tecnologia, desenvolvimento de software e pela busca constante de
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudo-invers&theme=react-dark&hide_border=true&area=true&color=ED8B00&line=D70A53&point=ffffff" alt="Activity Graph" width="100%"/>
-
 </div>
 
 ---
@@ -92,13 +85,7 @@ Sinta-se à vontade para explorar meus projetos ou me contatar para uma boa conv
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-sudo--invers-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudo-invers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL@exemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/josedhonatan)
+[![Email](https://img.shields.io/badge/Email-Enviar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhonatanjose10@gmail.com)
 
 <br/>
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60" alt="coding"/>
-
-*"Primeiro resolva o problema. Depois, escreva o código."* — John Johnson
-
-</div>
